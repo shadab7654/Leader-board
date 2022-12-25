@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # LeaderBoard
 # Dashboard_using-React
 ![image](https://user-images.githubusercontent.com/86181725/209457333-340fd48e-bc09-4912-a313-31b566b726fb.png)
+![image](https://user-images.githubusercontent.com/86181725/209457338-19a44a92-8085-4cf4-b25f-8dc543a21526.png)
